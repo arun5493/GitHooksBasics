@@ -1,12 +1,14 @@
 # HW0
 CSC-DevOps-HW0-ArunJaganathan
 
-![Slack Profile](/imgs/1.png)
-
-![Moodle Profile](/imgs/2.png)
-
-
-Format: ![Alt Text](url)
+<h3> Slack Profile
+![Slack Profile](/imgs/2.png)
 
 
-https://youtu.be/Alu5Vt5-t4w
+<h4> Moodle Profile
+![Moodle Profile](/imgs/1.png)
+
+
+
+
+[Screencast Link here](https://youtu.be/Alu5Vt5-t4w)
