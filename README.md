@@ -2,11 +2,15 @@
 CSC-DevOps-HW0-ArunJaganathan
 
 <h3> Slack Profile
-![Slack Profile](/imgs/2.png)
+![Alt Text](/imgs/2.png)
 
 
 <h4> Moodle Profile
 ![Moodle Profile](/imgs/1.png)
+
+
+![Slack Profile](/images/2.png)
+Format: ![Alt Text](url)
 
 
 
