@@ -9,6 +9,6 @@
 #### Slack Profile: 
 ![alt text](https://github.ncsu.edu/ajagana/HW0/blob/master/imgs/2.png "Logo Title Text 1")
 
-The ComputingEnvironments Workshops have been completed and the demo can be found below:
+### The ComputingEnvironments Workshops have been completed and the demo can be found below:
 
 ## [Screencast Link here](https://youtu.be/Alu5Vt5-t4w)
