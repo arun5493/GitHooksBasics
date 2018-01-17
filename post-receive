@@ -1,0 +1,6 @@
+#!/bin/sh
+
+echo "This is being executed!"
+GIT_WORK_TREE=../../deploy/production-www/ git checkout -f
+# deploy/production-www/ 
+echo "Pushed to production"

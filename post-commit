@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo "testing hooks"
+#firefox www.google.com
+xdg-open http://www.ncsu.edu/
